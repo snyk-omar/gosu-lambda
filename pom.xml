@@ -9,7 +9,7 @@
   <name>lambda-gosu-example</name>
 
   <properties>
-    <gosu.version>1-X-SNAPSHOT</gosu.version>
+    <gosu.version>1.15.8</gosu.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
